@@ -1,1 +1,1 @@
-# vortrag-dl4j
+# Code zum Vortrag zu Deeplearning4j
